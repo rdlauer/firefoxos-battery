@@ -1,0 +1,11 @@
+{
+    "name": "Battery Checker App",
+    "description": "This app checks the status of your battery!",
+    "launch_path": "/ffos_battery/index.html",
+    "version": "1.0",
+    "developer": {
+        "name": "Rob Lauer",
+        "url": "http://roblauer.me"
+    },
+    "default_locale": "en"
+}
